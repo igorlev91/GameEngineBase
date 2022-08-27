@@ -1,0 +1,13 @@
+extensions: designer.cs generated.cs
+extensions: .cs .cpp .h .inc .hlsls
+// Distributed under the MIT license. See the LICENSE file in the project root for more information.
+extensions: .aspx .ascx
+<%-- 
+ Distributed under the MIT license. See the LICENSE file in the project root for more information.
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd .xaml
+<!--
+    Distributed under the MIT license. See the LICENSE file in the project root for more information.
+-->
