@@ -1,4 +1,4 @@
-using PrimalEditor.GameProject;
+﻿using PrimalEditor.GameProject;
 using System;
 using System.Collections.Generic;
 using System.Linq;
